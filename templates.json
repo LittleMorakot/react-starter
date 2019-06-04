@@ -1,0 +1,14 @@
+{
+  "init": {
+    "place": "LittleMorakot/react-template",
+    "branch": ""
+  },
+  "complete-project": {
+    "place": "LittleMorakot/react-template",
+    "branch": "#complete"
+  },
+  "simple-project": {
+    "place": "LittleMorakot/react-template",
+    "branch": ""
+  }
+}
