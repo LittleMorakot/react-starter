@@ -4,15 +4,12 @@ const { resolve } = require('path');
 const res = command => resolve(__dirname, '../commands/', command);
 const program = require('commander');
 
-const version = require('../package').version;
-console.log(version);
-
 program
+  .version(require('../package').version)
   .command('init')
   .description('Generate a new project')
   .alias('i')
   .action(() => {
-    console.log('initttttt');
     require(res('init'))
   })
 
