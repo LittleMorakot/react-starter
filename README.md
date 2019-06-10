@@ -2,7 +2,7 @@
 ### Installation
 
 ```
-npm install -g build-react
+npm install -g @lxf/react-starter
 ```
 ### Usage
 ```
