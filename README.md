@@ -2,7 +2,7 @@
 ### Installation
 
 ```
-npm install -g @lxf/react-starter
+npm install -g @liuxuefei/react-starter
 ```
 ### Usage
 ```
